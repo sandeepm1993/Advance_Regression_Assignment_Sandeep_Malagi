@@ -46,11 +46,3 @@ This repository contains the solution for predicting house prices in Australia u
 ## Dataset
 
 The dataset contains details of house sales in Australia. The target variable is the price of the house, and the independent variables describe various aspects related to the house and its surroundings.
-
-## Results
-
-After analysis and modeling, we identified the significant variables that impact house prices. Further, the optimal values of lambda for ridge and lasso regression were determined.
-
-## License
-
-This project is licensed under the MIT License.
